@@ -1,1 +1,6 @@
-# CN332-Homework-Countdownd-Timmer-State-Pattern-
+### CN332-Homework-Countdown-Timer-State-Pattern-
+
+## สมาชิกกลุ่ม
+## 1.สิริกร แสงโชคานนท์ 6110613053
+## 2.สุวิชญา บุณยรัตพันธุ์ 6110613103
+## 3.สุรปัญญา ทองดี 6110613152
